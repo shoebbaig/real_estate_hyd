@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "editor.wordWrap": "on",
+    "python.linting.pylintArgs" :[
+        "--load-plugins=pylint_django",
+        "--errors-only"
+    ],
+}
